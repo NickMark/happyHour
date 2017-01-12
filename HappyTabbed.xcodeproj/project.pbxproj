@@ -8,22 +8,37 @@
 
 /* Begin PBXBuildFile section */
 		114BE4861DD964C6009E3BCE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114BE4851DD964C6009E3BCE /* AppDelegate.swift */; };
-		114BE4881DD964C6009E3BCE /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114BE4871DD964C6009E3BCE /* FirstViewController.swift */; };
-		114BE48A1DD964C6009E3BCE /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114BE4891DD964C6009E3BCE /* SecondViewController.swift */; };
 		114BE48D1DD964C6009E3BCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 114BE48B1DD964C6009E3BCE /* Main.storyboard */; };
-		114BE48F1DD964C6009E3BCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 114BE48E1DD964C6009E3BCE /* Assets.xcassets */; };
 		114BE4921DD964C6009E3BCE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 114BE4901DD964C6009E3BCE /* LaunchScreen.storyboard */; };
+		11B035F31DE15B4200EE0CFC /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B035F21DE15B4200EE0CFC /* MasterViewController.swift */; };
+		11B035F51DE15B6900EE0CFC /* PancakeHouse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B035F41DE15B6900EE0CFC /* PancakeHouse.swift */; };
+		11B035F71DE15B9000EE0CFC /* PancakeHouseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B035F61DE15B9000EE0CFC /* PancakeHouseTableViewCell.swift */; };
+		11BDD4E31DDEB996004D274C /* Assets 11-19-47-110.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11BDD4E21DDEB996004D274C /* Assets 11-19-47-110.xcassets */; };
+		11ED2A241DDAED22002D926A /* Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ED2A1D1DDAED22002D926A /* Label.swift */; };
+		11ED2A261DDAED22002D926A /* restaurants.plist in Resources */ = {isa = PBXBuildFile; fileRef = 11ED2A1F1DDAED22002D926A /* restaurants.plist */; };
+		11ED2A281DDAED22002D926A /* PancakeHouseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ED2A211DDAED22002D926A /* PancakeHouseViewController.swift */; };
+		11ED2A2D1DDAEE02002D926A /* Colours.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ED2A2C1DDAEE02002D926A /* Colours.swift */; };
+		11ED2A2F1DDBEF6A002D926A /* Annotations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ED2A2E1DDBEF6A002D926A /* Annotations.swift */; };
+		11ED2A311DDBEF8A002D926A /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ED2A301DDBEF8A002D926A /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		114BE4821DD964C5009E3BCE /* HappyTabbed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HappyTabbed.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		114BE4851DD964C6009E3BCE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		114BE4871DD964C6009E3BCE /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		114BE4891DD964C6009E3BCE /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		114BE48C1DD964C6009E3BCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		114BE48E1DD964C6009E3BCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		114BE4911DD964C6009E3BCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		114BE4931DD964C6009E3BCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		118977AB1E281C8900EEEE80 /* HappyTabbed.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = HappyTabbed.entitlements; sourceTree = "<group>"; };
+		11B035F21DE15B4200EE0CFC /* MasterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		11B035F41DE15B6900EE0CFC /* PancakeHouse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PancakeHouse.swift; sourceTree = "<group>"; };
+		11B035F61DE15B9000EE0CFC /* PancakeHouseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PancakeHouseTableViewCell.swift; sourceTree = "<group>"; };
+		11BDD4E21DDEB996004D274C /* Assets 11-19-47-110.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Assets 11-19-47-110.xcassets"; sourceTree = "<group>"; };
+		11ED2A1D1DDAED22002D926A /* Label.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Label.swift; sourceTree = "<group>"; };
+		11ED2A1F1DDAED22002D926A /* restaurants.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = restaurants.plist; sourceTree = "<group>"; };
+		11ED2A211DDAED22002D926A /* PancakeHouseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PancakeHouseViewController.swift; sourceTree = "<group>"; };
+		11ED2A2C1DDAEE02002D926A /* Colours.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colours.swift; sourceTree = "<group>"; };
+		11ED2A2E1DDBEF6A002D926A /* Annotations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Annotations.swift; sourceTree = "<group>"; };
+		11ED2A301DDBEF8A002D926A /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +71,55 @@
 		114BE4841DD964C5009E3BCE /* HappyTabbed */ = {
 			isa = PBXGroup;
 			children = (
+				118977AB1E281C8900EEEE80 /* HappyTabbed.entitlements */,
+				114BE4AD1DD9657B009E3BCE /* Modals */,
 				114BE4851DD964C6009E3BCE /* AppDelegate.swift */,
-				114BE4871DD964C6009E3BCE /* FirstViewController.swift */,
-				114BE4891DD964C6009E3BCE /* SecondViewController.swift */,
+				11C915B41DDDDB4F00526770 /* Others */,
+				114BE4AE1DD96584009E3BCE /* View Controllers */,
 				114BE48B1DD964C6009E3BCE /* Main.storyboard */,
-				114BE48E1DD964C6009E3BCE /* Assets.xcassets */,
+				11BDD4E21DDEB996004D274C /* Assets 11-19-47-110.xcassets */,
+				114BE4AF1DD9658E009E3BCE /* Views */,
 				114BE4901DD964C6009E3BCE /* LaunchScreen.storyboard */,
 				114BE4931DD964C6009E3BCE /* Info.plist */,
 			);
 			path = HappyTabbed;
+			sourceTree = "<group>";
+		};
+		114BE4AD1DD9657B009E3BCE /* Modals */ = {
+			isa = PBXGroup;
+			children = (
+				11ED2A2E1DDBEF6A002D926A /* Annotations.swift */,
+				11B035F41DE15B6900EE0CFC /* PancakeHouse.swift */,
+			);
+			name = Modals;
+			sourceTree = "<group>";
+		};
+		114BE4AE1DD96584009E3BCE /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				11B035F61DE15B9000EE0CFC /* PancakeHouseTableViewCell.swift */,
+				11ED2A301DDBEF8A002D926A /* MapViewController.swift */,
+				11B035F21DE15B4200EE0CFC /* MasterViewController.swift */,
+				11ED2A211DDAED22002D926A /* PancakeHouseViewController.swift */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		114BE4AF1DD9658E009E3BCE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		11C915B41DDDDB4F00526770 /* Others */ = {
+			isa = PBXGroup;
+			children = (
+				11ED2A2C1DDAEE02002D926A /* Colours.swift */,
+				11ED2A1D1DDAED22002D926A /* Label.swift */,
+				11ED2A1F1DDAED22002D926A /* restaurants.plist */,
+			);
+			name = Others;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -101,6 +156,11 @@
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = Z44ZR3G9ND;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Keychain = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -127,9 +187,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11ED2A261DDAED22002D926A /* restaurants.plist in Resources */,
 				114BE4921DD964C6009E3BCE /* LaunchScreen.storyboard in Resources */,
-				114BE48F1DD964C6009E3BCE /* Assets.xcassets in Resources */,
 				114BE48D1DD964C6009E3BCE /* Main.storyboard in Resources */,
+				11BDD4E31DDEB996004D274C /* Assets 11-19-47-110.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,9 +201,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				114BE48A1DD964C6009E3BCE /* SecondViewController.swift in Sources */,
+				11B035F31DE15B4200EE0CFC /* MasterViewController.swift in Sources */,
+				11ED2A281DDAED22002D926A /* PancakeHouseViewController.swift in Sources */,
+				11B035F71DE15B9000EE0CFC /* PancakeHouseTableViewCell.swift in Sources */,
+				11ED2A241DDAED22002D926A /* Label.swift in Sources */,
+				11ED2A311DDBEF8A002D926A /* MapViewController.swift in Sources */,
 				114BE4861DD964C6009E3BCE /* AppDelegate.swift in Sources */,
-				114BE4881DD964C6009E3BCE /* FirstViewController.swift in Sources */,
+				11ED2A2D1DDAEE02002D926A /* Colours.swift in Sources */,
+				11B035F51DE15B6900EE0CFC /* PancakeHouse.swift in Sources */,
+				11ED2A2F1DDBEF6A002D926A /* Annotations.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +330,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = HappyTabbed/HappyTabbed.entitlements;
 				DEVELOPMENT_TEAM = Z44ZR3G9ND;
 				INFOPLIST_FILE = HappyTabbed/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -276,6 +344,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = HappyTabbed/HappyTabbed.entitlements;
 				DEVELOPMENT_TEAM = Z44ZR3G9ND;
 				INFOPLIST_FILE = HappyTabbed/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -304,6 +373,7 @@
 				114BE4981DD964C6009E3BCE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

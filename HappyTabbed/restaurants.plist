@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>city</key>
+		<string>West</string>
+		<key>thumbnailName</key>
+		<string>cactus-club-cafe_thumb</string>
+		<key>name</key>
+		<string>Cactus Club English Bay</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>longitude</key>
+		<real>-123.142853</real>
+		<key>latitude</key>
+		<real>49.286781</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>West</string>
+		<key>thumbnailName</key>
+		<string>cactus-club-cafe_thumb</string>
+		<key>name</key>
+		<string>Cactus Club Coal Harbour</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>longitude</key>
+		<real>-123.117018</real>
+		<key>latitude</key>
+		<real>49.289972</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines
+</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>cactus-club-cafe_thumb</string>
+		<key>name</key>
+		<string>Cactus Club Yaletown</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>latitude</key>
+		<real>49.275076</real>
+		<key>longitude</key>
+		<real>-123.122597</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>Drinks: $3 Highballs, $4 Domestic Beer, $5 Selected Wines
+Food: 50% off appetizers, $4 Nachos</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>earls_thumb</string>
+		<key>name</key>
+		<string>Earls Yaletown</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>earls.jpg</string>
+		<key>latitude</key>
+		<real>49.275755</real>
+		<key>longitude</key>
+		<real>-123.120472</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>earls.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Central</string>
+		<key>thumbnailName</key>
+		<string>joey-bentall-one_thumb</string>
+		<key>name</key>
+		<string>JOEY Bentall</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>joey-bentall-one.jpg</string>
+		<key>latitude</key>
+		<real>49.286529</real>
+		<key>longitude</key>
+		<real>-123.118351</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>joey-bentall-one.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Broadway</string>
+		<key>thumbnailName</key>
+		<string>joey-broadway_thumb</string>
+		<key>name</key>
+		<string>JOEY Broadway</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>3</integer>
+		<key>imageName</key>
+		<string>joey-broadway.jpg</string>
+		<key>latitude</key>
+		<real>49.263395</real>
+		<key>longitude</key>
+		<real>-123.137156</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>joey-broadway.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Central</string>
+		<key>thumbnailName</key>
+		<string>joey-burrard_thumb</string>
+		<key>name</key>
+		<string>JOEY Burrard</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>joey-burrard.jpg</string>
+		<key>latitude</key>
+		<real>49.282694</real>
+		<key>longitude</key>
+		<real>-123.123178</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>joey-burrard.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Central</string>
+		<key>thumbnailName</key>
+		<string>JoeFortes001_thumb</string>
+		<key>name</key>
+		<string>Joe Fortes</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>1</integer>
+		<key>imageName</key>
+		<string>JoeFortes001.jpg</string>
+		<key>latitude</key>
+		<real>49.284934</real>
+		<key>longitude</key>
+		<real>-123.124702</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>JoeFortes001.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Central</string>
+		<key>thumbnailName</key>
+		<string>milestones_thumb</string>
+		<key>name</key>
+		<string>Milestones Burrard</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>3</integer>
+		<key>imageName</key>
+		<string>milestones.jpg</string>
+		<key>latitude</key>
+		<real>49.285264</real>
+		<key>longitude</key>
+		<real>-123.125773</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>milestones.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>West</string>
+		<key>thumbnailName</key>
+		<string>milestones_thumb</string>
+		<key>name</key>
+		<string>Milestones English Bay</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>milestones.jpg</string>
+		<key>latitude</key>
+		<real>49.286888</real>
+		<key>longitude</key>
+		<real>-123.141308</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>milestones.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>Steamworks Brewery</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>steamworks.jpg</string>
+		<key>latitude</key>
+		<real>49.284916</real>
+		<key>longitude</key>
+		<real>-123.110892</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>steamworks.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>Cardero&apos;s</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>carderos.jpg</string>
+		<key>latitude</key>
+		<real>49.291648</real>
+		<key>longitude</key>
+		<real>-123.127436</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>carderos.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>Pourhouse Restaurant</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>pourhouse.jpg</string>
+		<key>latitude</key>
+		<real>49.284104</real>
+		<key>longitude</key>
+		<real>-123.108274</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>pourhouse.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>Chill Winston</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>chillWinston.jpg</string>
+		<key>latitude</key>
+		<real>49.283538</real>
+		<key>longitude</key>
+		<real>-123.103946</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>chillWinston.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>La Casita Mexican</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>laCasita.jpg</string>
+		<key>latitude</key>
+		<real>49.283055</real>
+		<key>longitude</key>
+		<real>-123.106974</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>laCasita.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>HUB Restaurant</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>hub.jpg</string>
+		<key>latitude</key>
+		<real>49.274925</real>
+		<key>longitude</key>
+		<real>-123.121784</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>hub.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>The Boathosue</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>boathouse.jpg</string>
+		<key>latitude</key>
+		<real>49.286635</real>
+		<key>longitude</key>
+		<real>-123.142323</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>boathouse.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>Cloud 9 Restaurant</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>cloud 9.jpg</string>
+		<key>latitude</key>
+		<real>49.288198</real>
+		<key>longitude</key>
+		<real>-123.130463</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>cloud 9.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>Black + Blue</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>blackBlue.jpg</string>
+		<key>latitude</key>
+		<real>49.284479</real>
+		<key>longitude</key>
+		<real>-123.122874</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>blackBlue.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>Pink Elephant Thai House</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>pinkElephant.jpg</string>
+		<key>latitude</key>
+		<real>49.286049</real>
+		<key>longitude</key>
+		<real>-123.125092</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>pinkElephant.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>East</string>
+		<key>thumbnailName</key>
+		<string>steamworks_thumb</string>
+		<key>name</key>
+		<string>The Three Brits</string>
+		<key>details</key>
+		<string>Cocktail Bar, Lounges, Canadian</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>threeBrits.jpg</string>
+		<key>latitude</key>
+		<real>49.287089</real>
+		<key>longitude</key>
+		<real>-123.141801</real>
+		<key>hours</key>
+		<string>Mon-Fri: 11AM - 11PM    Sat-Sun: 12PM - 2AM</string>
+		<key>happyHour</key>
+		<string>Mon-Fri: 3PM - 5PM</string>
+		<key>address</key>
+		<string>123 Main St Vancouver, BC V6Y 1E7</string>
+		<key>phoneNumber</key>
+		<string>6045555555</string>
+		<key>mondaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>tuesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>wednesdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>thursdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>fridaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>saturdaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>sundaySpecial</key>
+		<string>$3 Highballs, $4 Domestic Beer, $5 Selected Wines</string>
+		<key>image1</key>
+		<string>threeBrits.jpg</string>
+		<key>image2</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>image3</key>
+		<string>cactus-club-cafe.jpg</string>
+		<key>image4</key>
+		<string>CactusClub_CarloRicci.jpg</string>
+		<key>website</key>
+		<string>www.espn.com</string>
+	</dict>
+</array>
+</plist>
